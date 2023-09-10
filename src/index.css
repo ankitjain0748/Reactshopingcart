@@ -1,0 +1,91 @@
+#header{
+    background:rgb(166, 208, 221);
+    padding: 10px,0px;
+}
+
+#header img{
+    width: 100px;
+    height: 50px;
+}
+
+
+#back {
+    position: fixed;
+    top: 180px;
+    right: 5px;
+    
+}
+
+#back .bi-arrow-left-square-fill{
+    font-size: 30px;
+    color:navy;    
+}
+
+#to-click {
+    position: fixed;
+    top: 520px;
+    right: 5px;
+    
+}
+
+#to-click .bi-arrow-up-square-fill{
+    font-size: 30px;
+    color:navy;    
+}
+
+
+#reg h2{
+    text-align: center;
+    color:black;
+}
+
+#banner{
+    background-color:rgb(166, 208, 221);
+    padding-top: 20px;
+
+}
+#banner h4{
+    text-align: center;
+    font-family: 'Ms Madi', cursive;
+    color:black;
+    padding-bottom: 6px;
+    
+}
+#banner p{
+    color:black;
+}
+#banner #img-banner{
+    width: 150px;
+    border-radius: 50%;
+}
+#banner img{
+    width: 100%;
+}
+
+#login h2{
+    text-align: center;
+    color:black;
+}
+
+#footer{
+    background: rgb(166, 208, 221);
+}
+#footer h2{
+    font-family: 'Ms Madi', cursive;
+    text-align: center;
+    color:black;
+}
+
+
+
+
+#shopinghome h1{
+    text-align: center;
+    margin: 200px;
+}
+
+
+
+#productstr{
+    display: flex;
+}
